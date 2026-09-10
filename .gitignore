@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+*.pt
+*.pth
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.safetensors
+*.log
+.pytest_cache/
+.idea/
+.vscode/
